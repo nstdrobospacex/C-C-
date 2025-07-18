@@ -1,0 +1,30 @@
+1.	D) int
+2.	B) num_1
+3.	D) stdio.h
+4.	B) 1
+5.	D) while
+6.	B) 4 bytes
+7.	C) >=
+8.	B) Size of variable in bytes
+9.	A) const
+10.	C) char
+11.	A) //
+12.	C) Variable that stores address
+13.	A) malloc()
+14.	B) 65
+15.	B) *
+16.	B) .cpp
+17.	C) Instance of class
+18.	A) ==
+19.	C) Allocate memory
+20.	A) Wrapping data and methods
+21.	B) class MyClass {};
+22.	C) Allows external access
+23.	C) :
+24.	C) Polymorphism
+25.	A) 15
+26.	C) Encapsulation
+27.	C) A special function to initialize objects
+28.	A) final
+29.	B) ->
+30.	C) Compilation
